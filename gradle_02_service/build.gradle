@@ -1,4 +1,0 @@
-dependencies {
-    compile project(":gradle_02_dao")
-    
-}
